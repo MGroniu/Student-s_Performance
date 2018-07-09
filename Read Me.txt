@@ -1,0 +1,3 @@
+Final paper - Word Document with final results
+Script_Model - R script for modeling data
+student-mat.csv - Data set 
